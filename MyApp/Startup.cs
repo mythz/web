@@ -10,6 +10,7 @@ using MyApp.ServiceInterface;
 
 namespace MyApp
 {
+    // THIS IS A MODIFIED TEMPLATE IN THE PRIVATE mythz/web REPO
     public class Startup : ModularStartup
     {
         // This method gets called by the runtime. Use this method to add services to the container.
